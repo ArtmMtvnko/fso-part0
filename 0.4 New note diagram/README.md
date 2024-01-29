@@ -25,5 +25,6 @@ sequenceDiagram
 
     Note right of Browser: Browser executes code that renders notes on page
 
-Diagram:
+### Diagram:
+
 ![Image of diagram](image-1.png)
